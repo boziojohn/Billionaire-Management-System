@@ -1,0 +1,10 @@
+Christos Tryfonopoulos;Tripoli/Greece;Teaching,Research;Greece;M;27/6/1978 14:14;0;56558-60098-8
+giannis bozionelos;?/Peloponeese;Student,Programming;Poland;M;28/7/2005 12:12;10;77206-20869-3
+Vasilis Sakellariou;Athens/Unknown;Student2,Panatha;Greece;M;23/8/2005 12:12;13;81064-54892-3
+Xrhstos Papadopoulos;Agrinio/Greece;Mpiskota;Germany;M;24/2/1978 9:9; 7;98631-31474-4
+Dpg;Athens/Greece;Vianex, KAE AKTOR Panathinaikos;Greece;M;24/2/1978 11:11;13;63306-93749-0
+Vaggelis Marinakis;Pireus/Greece;Olympiakos, Efoplistis;Greece;M;9/3/1965 3:3; 7;88409-07647-7
+Vardis Varvinogiannh;Athens/Greece;Motor oil;Italy;M;22/9/1998 14:14; 7;71264-10199-0
+Giannis Alafouzos;Athens/Greece;Efoplistis;Germany;M;24/2/1978 14:14;42;05769-82427-0
+Nikos Tselikas;Tripoli/Greece;AEK;Greece;M;21/2/1921 21:21;21;34492-89271-1
+Kostas Sloukas;Athenas/Greece;Basketballer;Greece;M;13/2/1987 19:19;13;98168-59040-0
